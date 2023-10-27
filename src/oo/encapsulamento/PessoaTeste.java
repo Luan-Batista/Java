@@ -1,0 +1,2 @@
+package oo.encapsulamento;public class PessoaTeste {
+}

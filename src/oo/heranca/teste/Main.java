@@ -9,6 +9,7 @@ public class Main {
         c.acelerar();
         c.acelerar();
         c.acelerar();
+        c1.acelerar();
         System.out.println(c);
         System.out.println(c1.velocidadeAtual);
     }
