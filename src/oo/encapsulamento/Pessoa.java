@@ -1,4 +1,0 @@
-package oo.encapsulamento;
-
-public class pessoa {
-}

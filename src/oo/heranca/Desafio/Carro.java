@@ -5,12 +5,12 @@ public class Carro {
     final int VELOCIDADE_MAXIMA;
     int velocidadeAtual;
     int delta = 5;
-    Carro (int velocidadeMaxima)
+    public Carro (int velocidadeMaxima)
     {
         VELOCIDADE_MAXIMA = velocidadeMaxima;
     }
 
-    Carro 
+
     void acelerar()
     {
         if(velocidadeAtual >= 0 && velocidadeAtual < VELOCIDADE_MAXIMA) {
