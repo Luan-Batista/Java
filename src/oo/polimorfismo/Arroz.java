@@ -1,2 +1,8 @@
-package oo.polimorfismo;public class arroz {
+package oo.polimorfismo;
+
+public class Arroz extends Comida{
+    public Arroz(double peso)
+    {
+        super(peso);
+    }
 }
